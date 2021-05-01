@@ -10,8 +10,8 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Master updated First");
-            Console.WriteLine("I have updated the features and my feature works Fine");
+            Console.WriteLine("Master updated first");
+            Console.WriteLine("I have updated the features and my feature works fine");
         }
     }
 }
