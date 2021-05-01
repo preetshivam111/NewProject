@@ -10,6 +10,8 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Applied Production Fix");
+            Console.WriteLine("Applied Production Fix");
             Console.WriteLine("Master updated First");
         }
     }
