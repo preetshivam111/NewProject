@@ -12,6 +12,7 @@ namespace MyFirstProject
         {
             Console.WriteLine("Applied Production Fix");
             Console.WriteLine("Applied Production Fix");
+            Console.WriteLine("Master updated First");
         }
     }
 }
