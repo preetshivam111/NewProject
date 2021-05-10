@@ -16,6 +16,7 @@ namespace MyFirstProject
             Console.WriteLine("Master updated first");
             Console.WriteLine("I have updated the features and my feature works fine");
             Console.WriteLine("Update from the Master Branch 5/3/2021 9:59 AM");
+            Console.WriteLine("Updated on the 11:07 5/3/2021 on Dev branch");
         }
     }
 }
