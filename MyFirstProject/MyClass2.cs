@@ -10,6 +10,7 @@ namespace MyFirstProject
     {
         public MyClass2()
         {
+            Console.WriteLine("Commit Number 2");
             //Added constrcutor in the Second branch as well
         }
     }
