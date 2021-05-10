@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyFirstProject
 {
-    class Class1
+    class MyClass2
     {
+        public MyClass2()
+        {
+            //Added constrcutor in the Second branch as well
+        }
     }
 }
