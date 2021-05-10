@@ -9,7 +9,7 @@ namespace MyFirstProject
     class MyClass
     {
         //Added one more class that is needed in the Command.
-        public myclass()
+        public MyClass()
         {}
     }
 }
