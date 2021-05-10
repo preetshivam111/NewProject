@@ -11,6 +11,7 @@ namespace MyFirstProject
         //Added one more class that is needed in the Command.
         public MyClass()
         {
+            Console.WriteLine("Commit Number 1")
         //Added a Comment
         }
     }
