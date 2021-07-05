@@ -10,6 +10,7 @@ namespace MyFirstProject
     {
         public MyClass2()
         {
+            Console.WriteLine("Shivam");
             //Added constrcutor in the Second branch as well
         }
     }
